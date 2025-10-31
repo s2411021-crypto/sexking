@@ -1,7 +1,4 @@
-const defaultGames = [
-  { name: "엘든 링", year: 2022, rating: 9.5, img: "https://via.placeholder.com/300x150?text=Elden+Ring" },
-  { name: "젤다의 전설: 티어스 오브 더 킹덤", year: 2023, rating: 9.8, img: "https://via.placeholder.com/300x150?text=Zelda" },
-];
+const defaultGames = [];
 
 const gameList = document.getElementById("game-list");
 const searchInput = document.getElementById("search");
